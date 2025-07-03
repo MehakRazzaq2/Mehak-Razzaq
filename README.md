@@ -8,17 +8,17 @@ Right now, I'm focusing on:
 - Understanding Android development with Java
 - Learning Git and version control
 
- 🚀 Goals:
+ Goals:
 - Build a solid portfolio with real-world projects
 - Improve my communication and presentation skills
 - Land my first internship or junior developer role by late 2025
 
-📌 Things I'm trying to do better:
+Things I'm trying to do better:
 - Writing clean and readable code
 - Documenting what I learn
 - Staying consistent and learning every day (even when it’s hard)
 
- 📫 You can reach me at:
+ You can reach me at:
 - LinkedIn: https://www.linkedin.com/in/mehak-razzaq-2406502ba/
 - Email: mehakrazzaq749@gmail.com
 
